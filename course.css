@@ -65,4 +65,11 @@ a:hover{
 #other img{
   width:200px;
 }
+input {
+  text-align: center; padding: 5px; background: #FFAEB9;
+  -webkit-transition-property: opacity;
+  -webkit-transition-duration: .4s;
+  opacity: .7;
+
+}
 
